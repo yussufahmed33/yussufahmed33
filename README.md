@@ -3,6 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/yussuf-ahmed-445218220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yussuf-ahmed-445218220" height="30" width="40" /></a>
+<a href="https://fb.com/yussuf.ahmed.901716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yussuf.ahmed.901716" height="30" width="40" /></a>
 <a href="https://instagram.com/yussufahmed33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yussufahmed33" height="30" width="40" /></a>
 </p>
 
